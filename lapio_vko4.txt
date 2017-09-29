@@ -1,4 +1,8 @@
 tämä on tekstitiedosto. moi
 En oikein tiedä kuinka paljon tekstiä tähän tiedostoon pitäisi lisätä.
 Anyways, here is some text in english. Don't blame me.
+<<<<<<< HEAD
 lis�ätekstiä....
+=======
+Lempiviikkoni lapio kurssilla oli ehdottomasti ensimmäinen viikko koska opin siitä paljon uutta ja tehtävät olivat monipuolisia.
+>>>>>>> 7d99a3322d50d81787d6b4afc5d2f9b99018f75c
